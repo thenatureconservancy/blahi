@@ -1,6 +1,6 @@
 ---
 title: "Black Hills Subregion Landscape Assessment"
-author: "TNC's LANDFIRE Team, Conservation Data Lab"
+author: "TNC's LANDFIRE Team"
 ---
 
 ## Goals of this demonstration
@@ -16,7 +16,7 @@ The following charts, maps, and graphs are based on current LANDFIRE products, a
 
 This demonstration will:
 
-* Provide context for the past and present ecosystem conditions the Black Hils Subregion, one of the [Southern Rockies Fire Science Network's](https://www.southernrockiesfirescience.org/){target="blank"} (SRFSN) five Subregions
+* Provide context for the past and present ecosystem conditions the Black Hills Subregion, one of the [Southern Rockies Fire Science Network's](https://www.southernrockiesfirescience.org/){target="blank"} (SRFSN) six Subregions
 * Demonstrate the power of data visualization to explore ecological patterns and functions using LANDFIRE products
 * Facilitate an understanding of historical and current conditions on a regional scale
 

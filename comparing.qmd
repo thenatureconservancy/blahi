@@ -24,6 +24,7 @@ Using LANDFIRE’s BpS products, we explore two different ways to visualize past
 ### Summary
 
 * Broadly speaking, this subregion has not experienced significant ecosystem conversion to agricultural or urban land uses.  
+* A substantial amount of what was mapped as grassland historically is now mapped as other types such as shrubland or exotics
 * Note: number presented when hovering equals acres.
 
 ```{r chord, echo=FALSE, message=FALSE, warning=FALSE, include=FALSE}
@@ -92,8 +93,8 @@ htmlwidgets::saveWidget(chord,
 
 ## Succession classes for most dominant BpSs
 
-* The Rocky Mountain Lodgepole Pine Forest shows the greatest differences between reference and current amounts of succession classes, with a substantial overrepresentation of succession class C on the landscape today.
-* Some BpSs have large underrepresentation of some succession classes on the landscape today.  For example succession class D is largely missing in the Southern Rocky Mountain Ponderosa Pine Woodland which is likely due to recent fire suppression.  
+* Five of the top six ecosystems depicted in the chart are missing succession classes on the landscape today, e.g., the Central Mixedgrass Prairie is missing class C.
+* Most ecosystems have some 'UN", or uncharacteristic native vegetation, i.e., combinations of height and cover that were not present on the landscape historically.  The Northwestern Great Plains-Black Hills Ponderosa Pine Woodland and Savanna for example has > 40% UN.
 
 
 ```{r scls chart, echo=FALSE, message=FALSE, warning=FALSE, fig.width=10, fig.height=9}
