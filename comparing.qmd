@@ -50,7 +50,6 @@ groupColors <-c( "#1d4220", # conifer
                  "#6e4f1e", # shrubland
                  "#f5e942", # cur ag
                  "#1d4220", # cur conifer
-                 "#397d3f", # cur hdw-con
                  "#b0af9e", # developed
                  "#eb4034", # exotics
                  "#fc9d03", # grassland
@@ -105,7 +104,7 @@ bps_scls_3 <- BPS_SCLS2 %>%
   group_by(Var1) %>%
   mutate(total.count = sum(Freq)) %>%
   ungroup() %>%
-  dplyr::filter(dense_rank(desc(total.count)) < 7) %>%
+  dplyr::filter(dense_rank(desc(total.count)) < 8) %>%
   dplyr::select(c("BpS_Name", "refLabel",  "currentPercent", "refPercent")) %>%
   pivot_longer(
     cols = c(`refPercent`, `currentPercent`), 

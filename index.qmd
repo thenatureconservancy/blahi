@@ -1,5 +1,5 @@
 ---
-title: "Southern Rockies Subregion Landscape Assessment"
+title: "Black Hills Subregion Landscape Assessment"
 author: "TNC's LANDFIRE Team, Conservation Data Lab"
 ---
 
@@ -16,13 +16,13 @@ The following charts, maps, and graphs are based on current LANDFIRE products, a
 
 This demonstration will:
 
-* Provide context for the past and present ecosystem conditions the Southern Rockies Subregion, one of the [Southern Rockies Fire Science Network's](https://www.southernrockiesfirescience.org/){target="blank"} (SRFSN) five Subregions
+* Provide context for the past and present ecosystem conditions the Black Hils Subregion, one of the [Southern Rockies Fire Science Network's](https://www.southernrockiesfirescience.org/){target="blank"} (SRFSN) five Subregions
 * Demonstrate the power of data visualization to explore ecological patterns and functions using LANDFIRE products
 * Facilitate an understanding of historical and current conditions on a regional scale
 
 ## Location
 
-The SRFSN Southern Rockies Subregion streches from eastern/southern Wyoming down to northern New Mexico.
+The SRFSN Black Hills Subregion streches across portions of western South Dakota, eastern Wyoming and northwestern Nebraska.
 
 
 <br>
@@ -59,7 +59,7 @@ quickmap <- qtm(shp,
                 fill = NULL, 
                 check.and.fix = TRUE, 
                 basemaps = 'https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}',
-                title = 'Southern Rockies Subregion',)
+                title = 'Black Hills Subregion',)
 
 quickmap
 

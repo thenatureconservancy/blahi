@@ -18,9 +18,9 @@ LANDFIRE's [Existing Vegetation Type, Cover and Height](https://landfire.gov/veg
 
 
 ## Summary
-* As with the past, the Rocky Mountain Subalpine Dry-Mesic Spruce-Fir Forest and Woodland is most dominant EVT, mapped at 16% of the subregion.
-* No agricultural or developed types landed in the top 10 EVTs.
-* Trees are the most dominant life form, covering ~70% of the area. 
+* The Northwestern Great Plains-Black Hills Ponderosa Pine Woodland and Savanna is most dominant EVT, mapped at 35% of the subregion.
+* Ruderal, agricultural and developed types add up to ~10% of the landscape.
+* Across the two polygons herbaceous vegetation is dominant, with the treed types being most prevelent in the northern section. 
  
 
 ## Most Prevalent Existing Vegetation Types
